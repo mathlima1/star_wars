@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover{
+    color: #000;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.Main__title{
+    text-align: center;
+    text-transform: uppercase;
+    font: bold 28px Roboto,sans-serif;
+    margin: 0 0 20px 0;
+}

@@ -1,0 +1,31 @@
+.header{
+    background-color: rgb(0,0,0);
+    position: fixed;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 20px;
+}
+.navbar__list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar__items{
+    color: #ffe81f;
+    margin: 0 10px;
+    text-transform: uppercase;
+    font: 600 18px Roboto,sans-serif;
+}
+.navbar__items:hover{
+    color: #ffe81f;
+    border-bottom: 2px solid #ffe81f;
+}
+.navbar__logo{
+    width: 150px;
+    padding: 0;
+    margin: 0;
+}
